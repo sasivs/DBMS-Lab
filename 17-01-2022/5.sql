@@ -1,0 +1,1 @@
+select LOCATE('a', 'Amitabh') as "charindex"
